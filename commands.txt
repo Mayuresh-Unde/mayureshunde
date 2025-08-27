@@ -1,0 +1,13 @@
+hello my name is mayuresh Mangesh unde
+1) dir        :: list files and folders
+2) cd         :: change directory
+3) cd ..      :: go back to previous directory
+4) mkdir demo :: create a new folder named demo
+5) rmdir demo :: remove a folder named demo
+6) cls        :: clear the screen
+7) echo text  :: display a message
+8) copy file1 file2  :: copy file
+9) del file   :: delete a file
+10) date /t   :: show date
+11) time /t   :: show time
+12) exit      :: close command prompt
